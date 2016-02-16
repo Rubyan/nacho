@@ -1,5 +1,5 @@
 {
-    "name": "Rubyan/Nacho",
+    "name": "rubyan/nacho",
     "description": "Nacho, nacho man. I want to be a nacho man",
     "license": "MIT",
     "keywords": ["nacho"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rubyan\\Nacho\\": "src"
+            "rubyan\\nacho\\": "src"
         }
     }
 }
